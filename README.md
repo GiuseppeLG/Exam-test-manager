@@ -10,3 +10,12 @@ The student must complete his / her work and deliver it via the system by the st
 
 The teacher corrects every task, inserting a grade between 18 and 30 or Insufficient.
 At the end of the insertion of the judgments of all the tasks, an e-mail message is delivered to each student with the grade assigned to the test.
+
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+
+## License
+This software is free.
+[GPL](http://www.gnu.org/licenses/gpl.html)
